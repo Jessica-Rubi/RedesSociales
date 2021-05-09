@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RedesSociales</string>
+    <string name="facebook_app_id">127459749347161</string>
+    <string name="fb_login_protocol_scheme">fb127459749347161</string>
+</resources>
